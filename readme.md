@@ -1,0 +1,1 @@
+"Admin huquqlari qo'shildi" 
